@@ -56,7 +56,7 @@ Generates a welcome message and saves it as an audio file.
 
 **`clear_entry_fields()`**: Clears the input fields after a successful login.
 
-**`create_login_page()**`: Sets up the GUI components and starts the Tkinter event loop.
+**`create_login_page()`**: Sets up the GUI components and starts the Tkinter event loop.
 
 ## Screenshots
 ![Img.png](Img.png)
